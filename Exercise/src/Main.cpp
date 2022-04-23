@@ -30,7 +30,7 @@ int main(int argc, char const *argv[])
     cout << "Registration Numbers Student 1: " << data1.studentnumbers << endl;
     cout << "Majors Student 1: " << data1.majors << endl;
     cout << "GPA Student 1: " << data1.GPA << endl;
-
+    cout << "\n" << endl;
     cout << "Full Name Student 2: " << data2.fullname << endl;
     cout << "Registration Numbers Student 2: " << data2.studentnumbers << endl;
     cout << "Majors Student 2: " << data2.majors << endl;
